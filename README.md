@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yakshitranga
-- 👀 I’m interested in programming and photogaphy
+- 👀 I’m interested in programming and photography
 - 🌱 I’m currently learning web development and python
 - 📫 How to reach me: yakshit.ranga@gmail.com
 - 😄 Pronouns: Yakshit, Yash
