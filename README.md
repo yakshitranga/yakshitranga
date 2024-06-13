@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yakshitranga
 - 👀 I’m interested in programming and photography
 - 🌱 I’m currently learning web development and python
-- 📫 How to reach me: yakshit.ranga@gmail.com, www.linkedin.com/in/yakshit-ranga, www.instagram.com/yakshit_ranga/
+- 📫 How to reach me: yakshit.ranga@gmail.com, www.linkedin.com/in/yakshit-ranga, www.instagram.com/yakshit_ranga
 - 😄 Pronouns: Yakshit, Yash
 - ⚡ Fun fact: I'm human ;)
 
